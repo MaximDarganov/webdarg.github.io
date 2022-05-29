@@ -1,5 +1,3 @@
-<html>
-    <body>
 <?php
 session_start();
 require_once __DIR__ . '/DB.php';
