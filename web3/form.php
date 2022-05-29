@@ -25,7 +25,7 @@
     <label for="female">
         <input type="radio"
                id="female"
-               name="sex"
+               name="name"
                value="Женский"/>Женский
     </label><br>
     <h2>Количество конечностей:</h2>
