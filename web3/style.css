@@ -1,0 +1,28 @@
+.form {
+    border-bottom: 100px solid #1a1fa8;
+    width: 500px;
+    margin: 30px;
+    background-color: #56f80b;
+    padding: 8px;
+    border-radius: 100px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 20px;
+    background-color: #0ee2e2;
+}
+
+textarea {
+    width: 50%;
+    resize: vertical;
+    padding: 15px;
+    border-radius: 15px;
+    border: 0;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.06);
+    height: 150px;
+}
